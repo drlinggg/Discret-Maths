@@ -7,3 +7,4 @@
 - [Код Морзе](https://github.com/drlinggg/Morse-code)
 - [Шифр Виженера](https://github.com/drlinggg/Vigenere-cipher)
 - [Шифр Вернама](https://github.com/drlinggg/Vernam-cipher)
+- [Энигма](https://github.com/drlinggg/Enigma)
